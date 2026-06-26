@@ -9,7 +9,7 @@ def greet(name):
 
 def main():
     """Main function"""
-    print("=== GitHub Training ===")
+    print("=== GitHub Training JVB ===")
     print(greet("Developer"))
     print("\nWelcome to Git practice!")
 
