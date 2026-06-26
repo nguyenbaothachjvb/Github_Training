@@ -1,0 +1,17 @@
+{
+  "projectName": "GitHub Training",
+  "version": "1.0.0",
+  "description": "A project for practicing Git and GitHub",
+  "author": "Developer",
+  "learningTopics": [
+    "git init",
+    "git add",
+    "git commit",
+    "git push",
+    "git pull",
+    "git branch",
+    "git merge",
+    "pull requests"
+  ],
+  "createdAt": "2026-06-26"
+}
