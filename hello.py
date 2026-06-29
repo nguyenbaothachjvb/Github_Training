@@ -11,7 +11,7 @@ def main():
     """Main function"""
     print("=== GitHub Training JVB ===")
     print(greet("Developer"))
-    print("Cái này mới để PR vào thôi nha 😎")
+    print("Đang test lại một số kiến thức 😎")
 
 if __name__ == "__main__":
     main()
